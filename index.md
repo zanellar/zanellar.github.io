@@ -5,6 +5,7 @@ title: Riccardo Zanella - Profile
 
 <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
 
+# Riccardo Zanella
 _**Researcher in Robotics**_ <br>
 
 _University of Twente, The Netherlands_ <br>
