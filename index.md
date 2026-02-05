@@ -5,14 +5,14 @@ title: Riccardo Zanella - Profile
 
 <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
 
-_**Researcher in Robotics*_*<br>
+_**Researcher in Robotics**_ <br>
 
 _University of Twente, The Netherlands_ <br>
 _Robotics and Mechatronics (RaM) group_
 
 ---
 
-**Correspondence**: schol-AT-r-zanella.eu <br>
+**Correspondence**: [schol(AT)r-zanella.eu](schol@r-zanella.eu)<br>
 [LinkedIn](https://www.linkedin.com/in/zanellar) | [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) |  [ORCID](https://orcid.org/0000-0001-5764-9896) 
 
 ---
