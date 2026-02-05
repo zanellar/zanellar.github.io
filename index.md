@@ -70,7 +70,7 @@ layout: default
   }
 </style>
 
-<img src="profile.jpg" alt="Riccardo Zanella" class="profile-img">
+<img src="profile.png" alt="Riccardo Zanella" class="profile-img">
 
 _**Researcher in Robotics*_*<br>
 
