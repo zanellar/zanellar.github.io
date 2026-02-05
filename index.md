@@ -1,13 +1,12 @@
 
-# Riccardo Zanella, Ph.D.
+**Researcher in Robotics**<br>
 
-**Postdoctoral Researcher** 
-University of Twente, The Netherlands
+University of Twente, The Netherlands <br>
 Robotics and Mechatronics (RaM) group
 
 --- 
 
-Correspondence: schol@r-zanella.eu
+Correspondence: schol@r-zanella.eu <br>
 [LinkedIn](https://www.linkedin.com/in/zanellar) | [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) |  [ORCID](https://orcid.org/0000-0001-5764-9896) 
 
 ---
@@ -21,21 +20,21 @@ Correspondence: schol@r-zanella.eu
 </details>
 
 ### Experience
-* **2024 – Present**: Postdoctoral Researcher - University of Twente (The Netherlands)
-* **2021 – 2024**: Postdoctoral Researcher - University of Bologna (Italy)
-* **2023**: Visiting Researcher (3 months) - Idiap Research Institute (Switzerland).
-* **2017 – 2021**: Research Fellow - University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering.
-* **2015 – 2016**: Erasmus+ (7 months) - KTH Royal Institute of Technology (Sweden) - Department of Automatic Control.
+* 2024 – Present: **Postdoctoral Researcher** <br> *University of Twente (The Netherlands) - Robotics and Mechatronics group*
+* 2021 – 2024: **Postdoctoral Researcher** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
+* 2023: **Visiting Researcher (3 months)** <br> *Idiap Research Institute (Switzerland) - Robot Learning & Interaction group*
+* 2017 – 2021: **Research Fellow** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering.*
+* 2015 – 2016: **Erasmus+ (7 months)** <br> *KTH Royal Institute of Technology (Sweden) - Department of Automatic Control.*
 
 ### Education
-* **2021**: Ph.D. in Biomedical, Electrical, and System Engineering - University of Bologna (Italy)
-* **2016**: M.Sc. in Control Systems Engineering (cum laude) - University of Padova (Italy) 
-* **2013**: B.Sc. in Information Engineering - University of Padova  
+* 2021: **Ph.D. in Biomedical, Electrical, and System Engineering** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
+* 2016: **M.Sc. in Control Systems Engineering ** (cum laude) <br> *University of Padova (Italy) - Department of Information Engineering*
+* 2013: **B.Sc. in Information Engineering** <br> *University of Padova - Department of Information Engineering*
 
 ### Selected Publications 
 
 <details>
-  <summary><b>📚 View Publication List</b></summary>
+  <summary><b> View Publication List</b></summary>
   <ul>
     <li><b>2025</b>: Safety-Critical Control on Lie Groups Using Energy-Augmented Zeroing Control Barrier Functions (arXiv: 2512.07395)</li>
     <li><b>2024</b>: Learning passive policies with virtual energy tanks in robotics, IET Control Theory & Applications</li>
