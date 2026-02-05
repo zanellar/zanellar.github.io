@@ -14,27 +14,24 @@
       padding: 0 25px;
     }
     .profile-img {
-      float: right;
-      width: 180px; 
-      border-radius: 10px;
-      margin-left: 20px;
-      margin-bottom: 20px;
-      border: 0.5px solid #333;
-    }
-    h1, h2, h3, summary { color: #C3110C; text-decoration: none; }
-    h1, h2, h3 { border-bottom: 0.5px solid #222; padding-bottom: 5px; }
-    a { color: #280905; text-decoration: underline; }
-    a:hover { filter: brightness(2.5); } /* Increased brightness for visibility */
-    strong { color: #ffffff; }
-    .date { color: #740A03; font-weight: normal; margin-right: 10px; }
-    hr { border: 0; border-top: 0.5px solid #222; margin: 30px 0; clear: both; }
-    details { background: #282828; padding: 15px; border-radius: 8px; margin-bottom: 15px; border: 0.5px solid #333; }
-    summary { cursor: pointer; font-weight: bold; }
-    i { color: #aaaaaa; }
-    @media (max-width: 600px) {
-      .profile-img { float: none; display: block; margin: 0 auto 20px auto; }
-    }
-  </style>
+    float: right;
+    width: 180px; 
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    border: 0.5px solid #333;
+  }
+
+  /* Questo assicura che il testo dell'intestazione stia a sinistra dell'immagine */
+  .header-block {
+    overflow: hidden; /* Crea un nuovo contesto di formattazione */
+    margin-bottom: 20px;
+  }
+
+  .header-text p {
+    margin: 5px 0; /* Riduce lo spazio tra le righe dell'intestazione */
+  }
+</style>
 </head>
 <body>
   {{ content }}
