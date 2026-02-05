@@ -13,25 +13,55 @@
       margin: 40px auto;
       padding: 0 25px;
     }
+    
+    .header-block { overflow: hidden; margin-bottom: 20px; }
+    
     .profile-img {
-    float: right;
-    width: 180px; 
-    border-radius: 10px;
-    margin-left: 25px;
-    margin-bottom: 10px;
-    border: 0.5px solid #333;
-  }
+      float: right;
+      width: 180px; 
+      border-radius: 10px;
+      margin-left: 25px;
+      margin-bottom: 10px;
+      border: 0.5px solid #333;
+    }
 
-  /* Questo assicura che il testo dell'intestazione stia a sinistra dell'immagine */
-  .header-block {
-    overflow: hidden; /* Crea un nuovo contesto di formattazione */
-    margin-bottom: 20px;
-  }
+    /* Headings: C3110C */
+    h1, h2, h3, summary { color: #C3110C; text-decoration: none; margin-top: 1em; }
+    h1 { margin-top: 0; }
+    h1, h2, h3 { border-bottom: 0.5px solid #222; padding-bottom: 5px; }
 
-  .header-text p {
-    margin: 5px 0; /* Riduce lo spazio tra le righe dell'intestazione */
-  }
-</style>
+    /* Links: 280905 + Underline (Resi un po' più chiari per leggibilità su nero) */
+    a { color: #A18E8C; text-decoration: underline; } 
+    a:hover { color: #C3110C; }
+
+    strong { color: #ffffff; }
+
+    /* Dates: 740A03 */
+    .date {
+      color: #740A03;
+      font-weight: normal;
+      margin-right: 10px;
+      display: inline-block;
+      min-width: 90px;
+    }
+    
+    hr { border: 0; border-top: 0.5px solid #222; margin: 30px 0; clear: both; }
+    
+    details {
+      background: #282828;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 15px;
+      border: 0.5px solid #333;
+    }
+    
+    summary { cursor: pointer; font-weight: bold; }
+    i { color: #aaaaaa; }
+
+    @media (max-width: 600px) {
+      .profile-img { float: none; display: block; margin: 0 auto 20px auto; }
+    }
+  </style>
 </head>
 <body>
   {{ content }}
