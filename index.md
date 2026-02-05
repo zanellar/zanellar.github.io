@@ -4,29 +4,55 @@ layout: default
 
 <style>
   body {
-    background-color: #2c2c2c; /* Dark Grey */
-    color: #e0e0e0;            /* Light Grey text for readability */
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    max-width: 800px;          /* Centers the content */
-    margin: 40px auto;         /* Adds space around the edges */
-    padding: 0 20px;
+    background-color: #1e1e1e; /* Deep Dark Grey */
+    color: #cfcfcf;            /* Soft White/Grey text */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.7;
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 0 25px;
   }
-  a { color: #4db6ac; }        /* Teal color for links - looks great on dark */
-  hr { border: 0; border-top: 1px solid #444; }
+  
+  /* Color for Section Titles (Biography, Experience, etc.) */
+  h1, h2, h3 { 
+    color: #ff3c3c;           /* Professional Red Accent */
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+  }
+
+  /* Color for Job Titles / Degrees */
+  strong { 
+    color: #ffffff;           /* Pure White for positions to make them "pop" */
+  }
+
+  /* Color for Dates */
+  .date {
+    color: #888888;           /* Muted Grey for dates */
+    font-weight: normal;
+    margin-right: 10px;
+  }
+
+  a { color: #4db6ac; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  
+  hr { border: 0; border-top: 1px solid #333; margin: 30px 0; }
+  
   details {
-    background: #383838;
-    padding: 10px;
-    border-radius: 5px;
-    margin-bottom: 10px;
+    background: #282828;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #333;
   }
-  summary { cursor: pointer; font-weight: bold; }
+  summary { cursor: pointer; font-weight: bold; color: #ff3c3c; }
+  
+  i { color: #aaaaaa; }      /* Muted italics for institutions */
 </style>
 
-**Researcher in Robotics**<br>
+_**Researcher in Robotics*_*<br>
 
-University of Twente, The Netherlands <br>
-Robotics and Mechatronics (RaM) group
+_University of Twente, The Netherlands_ <br>
+_Robotics and Mechatronics (RaM) group_
 
 --- 
 
@@ -42,19 +68,18 @@ Robotics and Mechatronics (RaM) group
     <li>Enhancing robustness and intelligence in perception and automation pipelines.</li>
   </ul>
 </details>
-
 ### Experience
-* 2024 – Present: **Postdoctoral Researcher** <br> *University of Twente (The Netherlands) - Robotics and Mechatronics group*
-* 2021 – 2024: **Postdoctoral Researcher** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
-* 2023: **Visiting Researcher (3 months)** <br> *Idiap Research Institute (Switzerland) - Robot Learning & Interaction group*
-* 2017 – 2021: **Research Fellow** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering.*
-* 2015 – 2016: **Erasmus+ (7 months)** <br> *KTH Royal Institute of Technology (Sweden) - Department of Automatic Control.*
+* <span class="date">2024 – Present</span>: **Postdoctoral Researcher** <br> *University of Twente (The Netherlands) - Robotics and Mechatronics group*
+* <span class="date">2021 – 2024</span>: **Postdoctoral Researcher** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
+* <span class="date">2023</span>: **Visiting Researcher (3 months)** <br> *Idiap Research Institute (Switzerland) - Robot Learning & Interaction group*
+* <span class="date">2017 – 2021</span>: **Research Fellow** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering.*
+* <span class="date">2015 – 2016</span>: **Erasmus+ (7 months)** <br> *KTH Royal Institute of Technology (Sweden) - Department of Automatic Control.*
 
 ### Education
-* 2021: **Ph.D. in Biomedical, Electrical, and System Engineering** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
-* 2016: **M.Sc. in Control Systems Engineering ** (cum laude) <br> *University of Padova (Italy) - Department of Information Engineering*
-* 2013: **B.Sc. in Information Engineering** <br> *University of Padova - Department of Information Engineering*
-
+* <span class="date">2021</span>: **Ph.D. in Biomedical, Electrical, and System Engineering** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
+* <span class="date">2016</span>: **M.Sc. in Control Systems Engineering (cum laude)** <br> *University of Padova (Italy) - Department of Information Engineering*
+* <span class="date">2013</span>: **B.Sc. in Information Engineering** <br> *University of Padova - Department of Information Engineering*
+* 
 ### Selected Publications 
 
 <details>
