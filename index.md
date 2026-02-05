@@ -1,3 +1,27 @@
+---
+layout: default
+---
+
+<style>
+  body {
+    background-color: #2c2c2c; /* Dark Grey */
+    color: #e0e0e0;            /* Light Grey text for readability */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;          /* Centers the content */
+    margin: 40px auto;         /* Adds space around the edges */
+    padding: 0 20px;
+  }
+  a { color: #4db6ac; }        /* Teal color for links - looks great on dark */
+  hr { border: 0; border-top: 1px solid #444; }
+  details {
+    background: #383838;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  summary { cursor: pointer; font-weight: bold; }
+</style>
 
 **Researcher in Robotics**<br>
 
@@ -6,7 +30,7 @@ Robotics and Mechatronics (RaM) group
 
 --- 
 
-Correspondence: schol@r-zanella.eu <br>
+**Correspondence**: schol-AT-r-zanella.eu <br>
 [LinkedIn](https://www.linkedin.com/in/zanellar) | [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) |  [ORCID](https://orcid.org/0000-0001-5764-9896) 
 
 ---
