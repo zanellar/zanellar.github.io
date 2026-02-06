@@ -4,9 +4,9 @@ title: Riccardo Zanella - Profile
 ---
 
 <div class="header-container" markdown="1">
+  <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
   <div class="header-text" markdown="1">
 # Riccardo Zanella, Ph.D.
-  <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
 **Researcher in Robotics** <br><br>
 _University of Twente, The Netherlands_  <br>
 _Robotics and Mechatronics (RaM) group_  <br><br>
