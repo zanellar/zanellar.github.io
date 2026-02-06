@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    :root {
+      --bg: #121212;          /* Nero profondo */
+      --card-bg: #1e1e1e;     /* Grigio scuro per i blocchi */
+      --text: #e0e0e0;        /* Testo chiaro */
+      --accent: #C3110C;      /* Il tuo rosso Header */
+      --date: #740A03;        /* Il tuo rosso Date */
+      --link: #A18E8C;        /* Link scuro */
+      --border: #333;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', -apple-system, system-ui, sans-serif;
+      line-height: 1.8;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 50px 20px;
+    }
+
+    /* Layout Intestazione a Griglia */
+    .header-block {
+      display: grid;
+      grid-template-columns: 1fr 220px; /* Testo largo, Foto fissa */
+      gap: 40px;
+      align-items: center;
+      margin-bottom: 60px;
+    }
+
+    .profile-img {
+      width: 220px;
+      height: 220px;
+      object-fit: cover;
+      border-radius: 15px; /* Angoli leggermente arrotondati, molto moderno */
+      border: 1px solid var(--border);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    }
+
+    h1 { color: var(--accent); font-size: 2.8rem; margin: 0; line-height: 1.2; }
+    h2, h3 { color: var(--accent); border-bottom: 0.5px solid var(--border); padding-bottom: 10px; margin-top: 2em; }
+
+    .header-text p { margin: 10px 0; font-size: 1.1rem; }
+
+    /* Stile per i Link */
+    a { color: var(--link); text-decoration: underline; transition: all 0.2s; }
+    a:hover { color: var(--accent); text-decoration: none; }
+
+    /* Stile per le Date */
+    .date {
+      color: var(--date);
+      font-family: 'Courier New', monospace; /* Look tecnico per le date */
+      font-weight: bold;
+      margin-right: 15px;
+      display: inline-block;
+      min-width: 120px;
+    }
+
+    /* Blocchi espandibili (Publication/Interests) */
+    details {
+      background: var(--card-bg);
+      padding: 20px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      margin-bottom: 15px;
+    }
+
+    summary { color: var(--accent); font-weight: bold; cursor: pointer; }
+
+    /* Mobile */
+    @media (max-width: 768px) {
+      .header-block { grid-template-columns: 1fr; text-align: center; }
+      .profile-img { margin: 0 auto; width: 180px; height: 180px; }
+      .date { display: block; margin-bottom: 5px; }
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
