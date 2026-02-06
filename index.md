@@ -24,18 +24,18 @@ _Robotics and Mechatronics (RaM) group_ <br>
     <li>Enhancing robustness and intelligence in perception and automation pipelines.</li>
   </ul>
 </details>
-
+ 
 ### Experience
-* <span class="date">2024 – Present</span>: **Postdoctoral Researcher** <br> *University of Twente (The Netherlands) - Robotics and Mechatronics group*
-* <span class="date">2021 – 2024</span>: **Postdoctoral Researcher** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
-* <span class="date">2023</span>: **Visiting Researcher (3 months)** <br> *Idiap Research Institute (Switzerland) - Robot Learning & Interaction group*
-* <span class="date">2017 – 2021</span>: **Research Fellow** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering.*
-* <span class="date">2015 – 2016</span>: **Erasmus+ (7 months)** <br> *KTH Royal Institute of Technology (Sweden) - Department of Automatic Control.*
+* <span class="date">2024 – Present</span> <div class="item-details">**Postdoctoral Researcher** <i>University of Twente (The Netherlands) - Robotics and Mechatronics group</i></div>
+* <span class="date">2021 – 2024</span> <div class="item-details">**Postdoctoral Researcher** <i>University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering</i></div>
+* <span class="date">2023</span> <div class="item-details">**Visiting Researcher** <i>Idiap Research Institute (Switzerland) - Robot Learning & Interaction group</i></div>
+* <span class="date">2017 – 2021</span> <div class="item-details">**Research Fellow** <i>University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering</i></div>
+* <span class="date">2017 – 2021</span> <div class="item-details">**Erasmus+ (7 months)** <i>KTH Royal Institute of Technology (Sweden) - Department of Automatic Control</i></div>  
 
 ### Education
-* <span class="date">2021</span>: **Ph.D. in Biomedical, Electrical, and System Engineering** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
-* <span class="date">2016</span>: **M.Sc. in Control Systems Engineering (cum laude)** <br> *University of Padova (Italy) - Department of Information Engineering*
-* <span class="date">2013</span>: **B.Sc. in Information Engineering** <br> *University of Padova - Department of Information Engineering*
+* <span class="date">2021</span> <div class="item-details">**Ph.D. in Biomedical, Electrical, and System Engineering** <i>University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering</i></div>
+* <span class="date">2016</span> <div class="item-details">**M.Sc. in Control Systems Engineering** <i> University of Padova (Italy) - Department of Information Engineering</i></div> 
+* <span class="date">2013</span> <div class="item-details"> **B.Sc. in Information Engineering** <i> University of Padova - Department of Information Engineering</i></div>  
   
 
 <details>
