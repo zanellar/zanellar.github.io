@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1
 title: Riccardo Zanella - Profile
 ---
 
@@ -17,13 +17,14 @@ _Robotics and Mechatronics (RaM) group_ <br>
 ---
 
 <details>
-  <summary><b>Click here to read more about my Scientific Interests</b></summary>
+  <summary><b>View my Scientific Interests</b></summary>
   <ul>
     <li>Control for safe physical human-robot interaction.</li>
     <li>Integration of AI/optimization and physical knowledge for robot interaction in unstructured environments.</li>
     <li>Enhancing robustness and intelligence in perception and automation pipelines.</li>
   </ul>
 </details>
+
 ### Experience
 * <span class="date">2024 – Present</span>: **Postdoctoral Researcher** <br> *University of Twente (The Netherlands) - Robotics and Mechatronics group*
 * <span class="date">2021 – 2024</span>: **Postdoctoral Researcher** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
@@ -35,11 +36,10 @@ _Robotics and Mechatronics (RaM) group_ <br>
 * <span class="date">2021</span>: **Ph.D. in Biomedical, Electrical, and System Engineering** <br> *University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering*
 * <span class="date">2016</span>: **M.Sc. in Control Systems Engineering (cum laude)** <br> *University of Padova (Italy) - Department of Information Engineering*
 * <span class="date">2013</span>: **B.Sc. in Information Engineering** <br> *University of Padova - Department of Information Engineering*
-* 
-### Selected Publications 
+  
 
 <details>
-  <summary><b> View Publication List</b></summary>
+  <summary><b> View Selected Publications</b></summary>
   <ul>
     <li><b>2025</b>: Safety-Critical Control on Lie Groups Using Energy-Augmented Zeroing Control Barrier Functions (arXiv: 2512.07395)</li>
     <li><b>2024</b>: Learning passive policies with virtual energy tanks in robotics, IET Control Theory & Applications</li>
