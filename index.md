@@ -4,15 +4,15 @@ title: Riccardo Zanella - Profile
 ---
 
 <div class="header-container" markdown="1">
-  <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
   <div class="header-text" markdown="1">
-# Riccardo Zanella, Ph.D.
-**Researcher in Robotics** <br><br>
-_University of Twente, The Netherlands_  <br>
-_Robotics and Mechatronics (RaM) group_  <br><br>
-[LinkedIn](https://www.linkedin.com/in/zanellar) &#124; [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) &#124; [ORCID](https://orcid.org/0000-0001-5764-9896)  <br><br>
-**Correspondence**: [schol(AT)r-zanella.eu](mailto:schol@r-zanella.eu)
+    # Riccardo Zanella, Ph.D.
+    **Researcher in Robotics** <br><br>
+    _University of Twente, The Netherlands_  <br>
+    _Robotics and Mechatronics (RaM) group_  <br><br>
+    [LinkedIn](https://www.linkedin.com/in/zanellar) &#124; [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) &#124; [ORCID](https://orcid.org/0000-0001-5764-9896)  <br><br>
+    **Correspondence**: [schol(AT)r-zanella.eu](mailto:schol@r-zanella.eu)
   </div>
+  <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
 </div>
 ---
 
