@@ -7,6 +7,7 @@
   <style>
     :root {
       --bg: #121212;
+      --card-bg: #1e1e1e; /* Colore per lo sfondo dei box dropdown */
       --text: #e0e0e0;
       --accent: #C3110C;
       --date: #740A03;
@@ -23,7 +24,7 @@
       line-height: 1.6;
     }
 
-    /* HEADER: Forza la foto a destra usando FLEX invece di GRID */
+    /* HEADER: Foto a destra e testo a sinistra */
     .header-container {
       display: flex;
       justify-content: space-between;
@@ -47,10 +48,38 @@
       flex-shrink: 0;
     }
 
-    /* LISTE: Allineamento Data | Testo */
-    ul { list-style: none; padding: 0; }
+    /* DROPDOWN BOX (Interessi e Pubblicazioni) */
+    details {
+      background: var(--card-bg);
+      padding: 15px 20px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      margin: 20px 0;
+    }
+
+    summary {
+      color: var(--accent);
+      font-weight: bold;
+      cursor: pointer;
+      outline: none;
+    }
+
+    /* Liste dentro i Dropdown (con i pallini) */
+    details ul {
+      margin-top: 10px;
+      padding-left: 20px;
+      list-style: disc; 
+    }
+
+    details li {
+      display: list-item; 
+      margin-bottom: 8px;
+    }
+
+    /* LISTE EXPERIENCE/EDUCATION (Senza pallini, con allineamento a colonne) */
+    .date-list { list-style: none; padding: 0; }
     
-    li {
+    .date-list li {
       display: flex;
       margin-bottom: 20px;
       align-items: flex-start;
@@ -59,28 +88,16 @@
     .date {
       color: var(--date);
       font-weight: bold;
-      width: 140px;      /* Spazio fisso per la colonna sinistra */
+      width: 140px;
       flex-shrink: 0;
       font-family: monospace;
     }
 
-    /* Contenitore di destra: forza la posizione e l'affiliazione su due righe */
-    .content-box {
-      flex: 1;
-    }
+    .content-box { flex: 1; }
+    .content-box strong { display: block; color: #fff; }
+    .content-box em { display: block; color: #aaa; font-style: italic; font-size: 0.95rem; }
 
-    .content-box strong {
-      display: block;    /* Posizione su riga 1 */
-      color: #fff;
-    }
-
-    .content-box em {
-      display: block;    /* Affiliazione su riga 2 */
-      color: #aaa;
-      font-style: italic;
-      font-size: 0.95rem;
-    }
-
+    /* TITOLI SEZIONI */
     h3 { 
       color: var(--accent); 
       border-bottom: 1px solid var(--border); 
@@ -94,8 +111,8 @@
     /* Mobile */
     @media (max-width: 600px) {
       .header-container { flex-direction: column-reverse; text-align: center; }
-      .profile-img { margin: 0 auto; width: 150px; }
-      li { flex-direction: column; }
+      .profile-img { margin: 0 auto 20px; width: 150px; }
+      .date-list li { flex-direction: column; }
       .date { width: auto; margin-bottom: 5px; }
     }
   </style>
