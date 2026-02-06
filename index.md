@@ -6,16 +6,19 @@ title: Riccardo Zanella - Profile
 <div class="header-container" markdown="1">
   <div class="header-text" markdown="1">
 # Riccardo Zanella, Ph.D.
-**Researcher in Robotics** University of Twente, The Netherlands  
+**Researcher in Robotics** 
+University of Twente, The Netherlands  
 Robotics and Mechatronics (RaM) group  
 
 [LinkedIn](https://www.linkedin.com/in/zanellar) | [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-5764-9896)  
+
 **Correspondence**: [schol(AT)r-zanella.eu](mailto:schol@r-zanella.eu)
   </div>
   <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
 </div>
 
 ---
+
 
 <details>
   <summary><b>View my Scientific Interests</b></summary>
@@ -39,6 +42,7 @@ Robotics and Mechatronics (RaM) group
 * <span class="date">2021</span> <span class="content-box">**Ph.D. in Biomedical, Electrical, and System Engineering** <em>University of Bologna (Italy) - Department of Electrical, Electronic and Information Engineering</em></span>
 * <span class="date">2016</span> <span class="content-box">**M.Sc. in Control Systems Engineering** <em>University of Padova (Italy) - Department of Information Engineering (Cum Laude)</em></span>
 * <span class="date">2013</span> <span class="content-box">**B.Sc. in Information Engineering** <em>University of Padova - Department of Information Engineering</em></span>
+
 
 ---
 
