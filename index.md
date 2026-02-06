@@ -55,4 +55,9 @@ title: Riccardo Zanella - Profile
   </ul>
 </details>
 
-<a href="https://r-federation.eu" style="border:1px solid #000; padding:4px 8px; color:#000; text-decoration:none; font-size:0.8rem; font-family:Courier, monospace; text-transform:uppercase;">Member of R-Federation</a>
+
+<div style="margin-top: 50px; text-align: center;">
+  <a href="https://r-federation.eu" style="border:1px solid var(--accent); padding:6px 12px; color:var(--text); text-decoration:none; font-size:0.8rem; font-family:'JetBrains Mono', Courier, monospace; text-transform:uppercase; border-radius: 4px; opacity: 0.8;">
+    Member of R-Federation
+  </a>
+</div>
