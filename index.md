@@ -4,7 +4,6 @@ title: Riccardo Zanella - Profile
 ---
 
 <div class="header-block">
-  <img src="profile.jpg" alt="Riccardo Zanella" class="profile-img">
   <div class="header-text">
     <h1>Riccardo Zanella, Ph.D.</h1>
     **Researcher in Robotics** <br>
@@ -13,6 +12,7 @@ title: Riccardo Zanella - Profile
     Correspondence: [schol-AT-r-zanella.eu](mailto:schol@r-zanella.eu) <br>
     [LinkedIn](https://www.linkedin.com/in/zanellar) | [Scholar](#) | [ORCID](#)
   </div>
+  <img src="profile.jpg" alt="Riccardo Zanella" class="profile-img">
 </div>
 
 ---
