@@ -8,15 +8,12 @@ title: Riccardo Zanella - Profile
 # Riccardo Zanella, Ph.D.
 **Researcher in Robotics** <br><br>
 _University of Twente, The Netherlands_  <br>
-_Robotics and Mechatronics (RaM) group_  
-
-[LinkedIn](https://www.linkedin.com/in/zanellar) &#124; [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) &#124; [ORCID](https://orcid.org/0000-0001-5764-9896)  
-
+_Robotics and Mechatronics (RaM) group_  <br>
+[LinkedIn](https://www.linkedin.com/in/zanellar) &#124; [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) &#124; [ORCID](https://orcid.org/0000-0001-5764-9896)  <br>
 **Correspondence**: [schol(AT)r-zanella.eu](mailto:schol@r-zanella.eu)
   </div>
   <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
 </div>
-
 ---
 
 
@@ -43,16 +40,16 @@ _Robotics and Mechatronics (RaM) group_
 * <span class="date">2016</span> <span class="content-box">**M.Sc. in Control Systems Engineering** <em>University of Padova (Italy) - Department of Information Engineering (Cum Laude)</em></span>
 * <span class="date">2013</span> <span class="content-box">**B.Sc. in Information Engineering** <em>University of Padova - Department of Information Engineering</em></span>
 
-<br>
+
 ---
 
 <details>
   <summary><b>View Selected Publications</b></summary>
   <ul>
-    <li>Zanella, R., Califano, F. and Stramigioli, S., 2026. **Physical Human-Robot Interaction: A Critical Review of Safety Constraints.** arXiv preprint arXiv:2601.19462.</li>
-    <li>Letti, A., Zanella, R., Macchelli, A. and Califano, F., 2025. **Safety-Critical Control on Lie Groups Using Energy-Augmented Zeroing Control Barrier Functions.** arXiv preprint arXiv:2512.07395.</li>
-    <li>Zanella, R., Palli, G., Stramigioli, S. and Califano, F., 2024. **Learning Passive Policies with Virtual Energy Tanks in Robotics.** IET Control Theory & Applications, 18(5), pp.541-550.</li>
-    <li>Califano, F., Zanella, R., Macchelli, A. and Stramigioli, S., 2024. **The Effect of Control Barrier Functions on Energy Transfers in Controlled Physical Systems.** arXiv preprint arXiv:2406.13420.</li>
-    <li>Caporali, A., Kicki, P., Galassi, K., Zanella, R., Walas, K. and Palli, G., 2024. **Deformable Linear Objects Manipulation with Online Model Parameters Estimation.** IEEE Robotics and Automation Letters, 9(3), pp.2598-2605.</li>
+    <li>Zanella, R., Califano, F. and Stramigioli, S., 2026. <b>Physical Human-Robot Interaction: A Critical Review of Safety Constraints.</b> arXiv preprint arXiv:2601.19462.</li>
+    <li>Letti, A., Zanella, R., Macchelli, A. and Califano, F., 2025. <b>Safety-Critical Control on Lie Groups Using Energy-Augmented Zeroing Control Barrier Functions.</b> arXiv preprint arXiv:2512.07395.</li>
+    <li>Zanella, R., Palli, G., Stramigioli, S. and Califano, F., 2024. <b>Learning Passive Policies with Virtual Energy Tanks in Robotics.</b> IET Control Theory & Applications, 18(5), pp.541-550.</li>
+    <li>Califano, F., Zanella, R., Macchelli, A. and Stramigioli, S., 2024. <b>The Effect of Control Barrier Functions on Energy Transfers in Controlled Physical Systems.</b> arXiv preprint arXiv:2406.13420.</li>
+    <li>Caporali, A., Kicki, P., Galassi, K., Zanella, R., Walas, K. and Palli, G., 2024. <b>Deformable Linear Objects Manipulation with Online Model Parameters Estimation.</b> IEEE Robotics and Automation Letters, 9(3), pp.2598-2605.</li>
   </ul>
 </details>
