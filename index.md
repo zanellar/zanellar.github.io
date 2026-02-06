@@ -20,12 +20,12 @@ Robotics and Mechatronics (RaM) group
 ---
 
 
-<details>
+<details open>
   <summary><b>View my Scientific Interests</b></summary>
   <ul>
-    <li>Control for safe physical human-robot interaction.</li>
-    <li>Integration of AI/optimization and physical knowledge for robot interaction in unstructured environments.</li>
-    <li>Enhancing robustness and intelligence in perception and automation pipelines.</li>
+    <li> Safety in Physical Human-Robot Interaction </li>
+    <li> Energy- and Geometry-informed Robot Learning </li>
+    <li> Robot Vision and Manipulation </li>
   </ul>
 </details>
 
@@ -49,8 +49,10 @@ Robotics and Mechatronics (RaM) group
 <details>
   <summary><b>View Selected Publications</b></summary>
   <ul>
-    <li><b>2025</b>: Safety-Critical Control on Lie Groups Using Energy-Augmented Zeroing Control Barrier Functions (arXiv: 2512.07395)</li>
-    <li><b>2024</b>: Learning passive policies with virtual energy tanks in robotics, IET Control Theory & Applications</li>
-    <li><b>2019</b>: Integration of robotic vision and tactile sensing for wire-terminal insertion tasks, IEEE T-ASE (Best New Application Paper Award)</li>
+    <li>Zanella, R., Califano, F. and Stramigioli, S., 2026. Physical Human-Robot Interaction: A Critical Review of Safety Constraints. arXiv preprint arXiv:2601.19462. </li>
+    <li>Letti, A., Zanella, R., Macchelli, A. and Califano, F., 2025. Safety-Critical Control on Lie Groups Using Energy-Augmented Zeroing Control Barrier Functions. arXiv preprint arXiv:2512.07395./li>
+    <li>Zanella, R., Palli, G., Stramigioli, S. and Califano, F., 2024. Learning passive policies with virtual energy tanks in robotics. IET Control Theory & Applications, 18(5), pp.541-550.</li>
+    <li>Califano, F., Zanella, R., Macchelli, A. and Stramigioli, S., 2024. The effect of control barrier functions on energy transfers in controlled physical systems. arXiv preprint arXiv:2406.13420.</li>
+    <li>Caporali, A., Kicki, P., Galassi, K., Zanella, R., Walas, K. and Palli, G., 2024. Deformable linear objects manipulation with online model parameters estimation. IEEE Robotics and Automation Letters, 9(3), pp.2598-2605. </li>
   </ul>
 </details>
