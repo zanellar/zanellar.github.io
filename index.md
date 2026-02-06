@@ -2,17 +2,20 @@
 layout: default1
 title: Riccardo Zanella - Profile
 ---
-
 <div class="header-container" markdown="1">
   <div class="header-text" markdown="1">
 # Riccardo Zanella, Ph.D.
-**Researcher in Robotics** *University of Twente, The Netherlands* *Robotics and Mechatronics (RaM) group* [LinkedIn](https://www.linkedin.com/in/zanellar) &#124; [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) &#124; [ORCID](https://orcid.org/0000-0001-5764-9896)  
+**Researcher in Robotics**
+
+*University of Twente, The Netherlands* <br>
+*Robotics and Mechatronics (RaM) group*
+
+[LinkedIn](https://www.linkedin.com/in/zanellar) &#124; [Scholar](https://scholar.google.it/citations?user=llv1QDoAAAAJ&hl=en) &#124; [ORCID](https://orcid.org/0000-0001-5764-9896)
 
 **Correspondence**: [schol(AT)r-zanella.eu](mailto:schol@r-zanella.eu)
   </div>
   <img src="profile.png" alt="Riccardo Zanella" class="profile-img">
 </div>
-
 ---
 
 <details open>
@@ -51,3 +54,5 @@ title: Riccardo Zanella - Profile
     <li>Caporali, A., Kicki, P., Galassi, K., Zanella, R., Walas, K. and Palli, G., 2024. <b>Deformable Linear Objects Manipulation with Online Model Parameters Estimation.</b> IEEE Robotics and Automation Letters, 9(3), pp.2598-2605.</li>
   </ul>
 </details>
+
+<a href="https://r-federation.eu" style="border:1px solid #000; padding:4px 8px; color:#000; text-decoration:none; font-size:0.8rem; font-family:Courier, monospace; text-transform:uppercase;">Member of R-Federation</a>
