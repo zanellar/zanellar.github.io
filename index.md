@@ -22,8 +22,9 @@ title: Riccardo Zanella - Profile
   <summary><b>View my Scientific Interests</b></summary>
   <ul>
     <li> Safety in Physical Human-Robot Interaction </li>
-    <li> Energy- and Geometry-informed Robot Learning </li>
-    <li> Robot Vision and Manipulation </li>
+    <li> Energy-based Control </li>
+    <li> Physics-Informed Learning and Optimization </li> 
+    <li> Intelligent Robotic Perception and Manipulation </li> 
   </ul>
 </details>
 
